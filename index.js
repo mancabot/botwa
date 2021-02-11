@@ -1,5 +1,5 @@
 /*
-]=====> RAMLAN ID <=====[ ]=====> YT RAMLAN CHANNEL <=====[ ]=====> 085559240360 <=====[
+]=====> MANCABOT <=====[ ]=====> YT MANCABOT CHANNEL <=====[ ]=====> 083815956151 <=====[
 */
 const {
    WAConnection,
@@ -50,20 +50,20 @@ prefix = '!'
 blocked = []   
 limitawal = 20
 memberlimit = 2
-cr = '*𝐁𝐀𝐁𝐘 𝐁𝐎𝐓𝐙 𝐕𝐄𝐑𝐈𝐅𝐈𝐄𝐃*'
+cr = '*MANCABOT VERIFIED*'
 
 /*
 ]=====> SETTINGS <=====[
 */
-const ownerNumber = ["6285559240360@s.whatsapp.net","6285559240360@s.whatsapp.net"]
-const botName = '𝐁𝐀𝐁𝐘 𝐁𝐎𝐓𝐙'
-const ownerName = '𝗥𝗮𝗺𝗹𝗮𝗻 𝗜𝗗'
+const ownerNumber = ["6283815956151@s.whatsapp.net","6283815956151@s.whatsapp.net"]
+const botName = 'MANCABOT'
+const ownerName = 'MANCAGRILS'
 const BarBarKey = 'IDxO1TFYnKADlX4pxcHa' // APIKEY DOWNLOAD FILE
 const VhtearKey = 'APIKEY' // YANG DI YOUTUBE
 const TobzKey = 'BotWeA' // JANGAN MAU ENAK DOANG
 const XteamKey = 'APIKEY' // APIKEY XTEAM BELI SENDIRI:V
 /*
-]=====> SC BY RAMLAN ID <=====[
+]=====> SC BY MANCAGRILS <=====[
 */
 
 /*       
@@ -367,7 +367,7 @@ client.on('group-participants-update', async (anu) => {
             const groupAdmins = isGroup ? getGroupAdmins(groupMembers) : ''
             
 /*
-]=====> RAMLAN ID <=====[
+]=====> MANCABOT <=====[
 */
             const isEventon = isGroup ? event.includes(from) : false
             const isRegistered = checkRegisteredUser(sender)
@@ -1955,7 +1955,8 @@ client.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audi
 break														
 /*
 ]=====> TQTO <=====[
-> RAMLAN ID
+> RAMLAN ID 
+> MANCA BOT
 > REVOER ID
 > ARIS ID
 > NADIA CANS
