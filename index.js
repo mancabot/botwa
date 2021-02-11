@@ -40,11 +40,11 @@ const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n' 
 // KASIH WM GUE
             + 'VERSION:3.0\n' 
-// RAMLAN ID
-            + 'FN:RAMLAN ID\n' 
+// MANCACANS
+            + 'FN:MANCA CANS\n' 
 // JAN NGEYEL AJG
             + 'ORG:OWNER BOTZ;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6283815956151:+62 838-1595-615q\n' 
             + 'END:VCARD' 
 prefix = '!'
 blocked = []   
