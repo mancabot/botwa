@@ -44,7 +44,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'FN:MANCA CANS\n' 
 // JAN NGEYEL AJG
             + 'ORG:OWNER BOTZ;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6283815956151:+62 838-1595-615q\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6283815956151:+62 838-1595-6151q\n' 
             + 'END:VCARD' 
 prefix = '!'
 blocked = []   
