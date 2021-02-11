@@ -8,7 +8,7 @@ Kalo gak paham tuh baca dulu -_-
 ➸ *${prefix}sticker*
 Kirim gambar/video dengan caption sticker
 ➸ *${prefix}ttp*
-Text to sticker contoh : ${prefix}ttp Lann ID
+Text to sticker contoh : ${prefix}ttp bot ID
 ➸ *${prefix}tts*
 Suara google contoh : ${prefix}tts id Hallo Manca
 ➸ *${prefix}toimg*
