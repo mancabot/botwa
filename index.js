@@ -41,10 +41,10 @@ const vcard = 'BEGIN:VCARD\n'
 // KASIH WM GUE
             + 'VERSION:3.0\n' 
 // RAMLAN ID
-            + 'FN:RAMLAN ID\n' 
+            + 'FN:MANCA BOT\n' 
 // JAN NGEYEL AJG
-            + 'ORG:OWNER BOTZ;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' 
+            + 'ORG:OWNER BOT;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6283815956151:+62 838-1595-6151\n' 
             + 'END:VCARD' 
 prefix = '!'
 blocked = []   
