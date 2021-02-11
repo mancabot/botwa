@@ -25,7 +25,7 @@
  
 </details>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗥𝗔𝗠𝗟𝗔𝗡 𝗜𝗗
+### TQS FOR MANCABOT
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
@@ -51,8 +51,8 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Ramlan666/babybot
-> cd babybot
+> git clone https://github.com/mancabot/botwa
+> cd botwa
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
@@ -67,10 +67,10 @@ Ket: Aktiv 24 jam
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/RamlanChannel21)
-* [`Instagram Admin`](https://instagram.com/iamramlan_)
-* [`WhatsApp Admin `](https://wa.me/+6285559240360)
-* [`Group WhatsApp `](https://chat.whatsapp.com/Eb4niW86N3kHbMjgmdL4WU)
+* [`Youtube Admin`](https://youtube.com/c/thenayxploit)
+* [`Instagram Admin`](https://instagram.com/thenay_xploit_)
+* [`WhatsApp Admin `](https://wa.me/+6283815956151)
+* [`Group WhatsApp `](https://chat.whatsapp.com/IWlcMl05xez5npIdhDaCZX)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`ALLAH SWT`]
